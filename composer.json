@@ -1,5 +1,5 @@
 {
-  "name": "elibyy/laravel-tcpdf",
+  "name": "j-hernandez/laravel-tcpdf",
   "description": "tcpdf support for laravel 5",
   "minimum-stability": "stable",
   "license": "proprietary",
